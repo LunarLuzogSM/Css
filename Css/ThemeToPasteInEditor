@@ -1,4 +1,4 @@
-//META{"name":"Theme Privée","description":"Un Theme Update Pour Moi.","author":"LunarLuzog","version":"1.4"}*//{}
+//META{"name":"Theme Privée","description":"Un Theme Update Pour Moi.","author":"LunarLuzog","version":"1.3"}*//{}
 @import url(https://raw.githack.com/LunarLuzogSM/Css/master/Css/MyCssV1.3.css);
 
 :root {
