@@ -1,0 +1,21 @@
+//META{"name":"Theme Privée","description":"Un Theme Update Pour Moi.","author":"LunarLuzog","version":"1.4"}*//{}
+@import url(https://raw.githack.com/LunarLuzogSM/Css/master/Css/MyCssV1.3.css);
+
+:root {
+    --background-image: url(https://imgur.com/vHtZAFZ.jpg);
+    --friends-icon: url(https://imgur.com/tJd8oFX.jpg);
+    --friends-icon-position: center center; 
+    --friends-icon-zoom: 100%;
+    --main-color: rgb(65, 180, 130); 
+    --main-transparency: rgba(0, 0, 0, 0.4);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(255,255,255, .15); 
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --scroll-bar-color: rgba(255,255,255, .15); 
+    --font-size: 16px;
+    --selected-text-voice-color: #f6f6f7; 
+    --text-hover-color: #b9bbbe; 
+    --voice-hover-color: #f6f6f7; 
+    --unread-text-color: #dcddde; 
+    --options-transparency: transparent; 
+}
