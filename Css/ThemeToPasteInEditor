@@ -18,4 +18,5 @@
     --voice-hover-color: #f6f6f7; 
     --unread-text-color: #dcddde; 
     --options-transparency: transparent; 
+    --user-popup-background: rgba(0, 0, 0, 0.6);
 }
